@@ -6,8 +6,8 @@ pipeline {
 	
 	environment {
 		        PROJECT_ID = 'vinaygcpdevops'
-                CLUSTER_NAME = 'autopilot-cluster-1'
-                LOCATION = 'us-central1'
+                CLUSTER_NAME = 'gke-implementation'
+                LOCATION = 'us-west2'
                 CREDENTIALS_ID = 'kubernetes'		
 	}
 	
